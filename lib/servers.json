@@ -1,0 +1,20 @@
+{
+    "electrumx-mainnet01.futurocoin.org": {
+        "pruning": "-",
+        "s": "50002",
+        "t": "50001",
+        "version": "1.2"
+    },	
+	"electrumx-mainnet02.futurocoin.org": {
+		"pruning": "-",
+        "s": "50002",
+        "t": "50001",
+        "version": "1.2"
+    },
+	"electrumx-mainnet03.futurocoin.org": {
+		"pruning": "-",
+        "s": "50002",
+        "t": "50001",
+        "version": "1.2"
+    }
+}
